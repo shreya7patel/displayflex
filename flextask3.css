@@ -1,0 +1,27 @@
+.main{
+    width: 100%;
+    background-color: gray;
+    height: 200px;
+    display: flex;
+}
+.one{
+    width: 100px;
+    background-color: green;
+    border: solid black;
+    text-align: center;
+}
+.two{
+    width: 50px;
+    background-color: green;
+    border: solid black;
+    height: 40px;
+    text-align: center;
+}
+.three{
+    width: 50px;
+    background-color: green;
+    border: solid black;
+    height: 40px;
+    text-align: center;
+    margin-top: 155px;
+}
